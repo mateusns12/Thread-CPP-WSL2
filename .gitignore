@@ -1,0 +1,9 @@
+.vscode
+build
+CMakeFiles
+Testing
+CMakeCache.txt
+*.cmake
+*.tcl
+Makefile
+threadcpp
